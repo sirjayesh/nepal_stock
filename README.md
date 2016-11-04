@@ -5,7 +5,7 @@ Get Nepal Stock value of Trading Companies
 usage:
 
 
-from NepalStock import  *
+from nepal_stock.NepalStock import *
 
 getStock('SBI')
 
