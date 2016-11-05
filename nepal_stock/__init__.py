@@ -1,1 +1,1 @@
-from .NepalStock import getStock
+from nepal_stock import *
