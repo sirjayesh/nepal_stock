@@ -1,6 +1,9 @@
 # nepal_stock
 Get Nepal Stock Exchange 'nepse' value of Trading Companies
 
+installation:
+
+pip install nepal_stock
 
 usage:
 
